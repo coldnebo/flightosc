@@ -103,3 +103,14 @@ But then I remembered an app I used to use on my phone... TouchOSC.
 Apparently, I wasn't the only one having these thoughts as I found the [c0redumb/midi2vjoy](https://github.com/c0redumb/midi2vjoy) which connects MIDI outputs to a virtual game controller provided by the [vJoy](http://vjoystick.sourceforge.net/site/) driver.
 
 So, now I discovered a path, from TouchOSC on my iPhone to vJoy to Microsoft Flight Simulator! Victory!!
+
+
+## FUTURE WORK
+
+There are a lot of steps to get things connected.  In theory, this could be streamlined if a driver was written that could act as an OSC client and implement IGameController in order to be registered as a game device in Windows.  This could avoid having to translate OSC to MIDI and then MIDI to vJoy.
+
+### Refs
+
+* [IGameController Interface](https://docs.microsoft.com/en-us/uwp/api/Windows.Gaming.Input.IGameController?view=winrt-19041) [Windows Dev Center]
+* [Guide to OSC Libraries](http://opensoundcontrol.org/guide-osc-libraries) - old
+* [Another list of Libraries](https://wiki.thingsandstuff.org/OSC#Programming) - hmmm, Rust? Python/Ruby... etc.  Rust might be best fit for Windows driver development.
