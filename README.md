@@ -26,6 +26,10 @@ _Note: I have a Windows 10 PC -- some of this approach may be adaptable to other
 
 1. Download and install the TouchOSC Editor, Bridge and vJoy from the links above. They are pretty self-explanatory.
 
+	* Open Configure vJoy App and under "Force Feedback", uncheck "Enable Effects".
+	* Note that "vJoy Device: 1" should be enabled by default.  Adding other devices requires a reboot and may confuse MSFS.
+	* vJoy Device List when run should display a single number "1" in black and all other device numbers in grey.
+
 2. Then install Python3 for Windows from [the official site](https://www.python.org/downloads/release/python-385/):
 
 	* Download "Windows x86-64 executable installer" from the links on the bottom of the page.
