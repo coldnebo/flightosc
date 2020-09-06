@@ -2,6 +2,21 @@
 using your phone or tablet as a flight controller
 
 
+## Screenshots
+
+Simple 3 axis controls
+
+![Image of simple.touchosc](https://i.imgur.com/ubDwAM9.jpeg)
+
+Or more complex twin engine controls (6-axis, plus buttons)
+
+![Image of twinengine.touchosc](https://i.imgur.com/pEahoMB.jpeg)
+
+Or an F/A-18 like controller with finger lifts, TDC, speedbrake and more
+
+![Image of dcs.touchosc](https://i.imgur.com/Ul048F5.jpeg)
+
+
 ## INSTALLATION
 
 You'll need the following pieces of software to make this work:
