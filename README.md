@@ -4,15 +4,15 @@ using your phone or tablet as a flight controller
 
 ## Screenshots
 
-Simple 3 axis controls
+Simple 3 axis controls  (simple.touchosc)
 
 ![Image of simple.touchosc](https://i.imgur.com/ubDwAM9.jpeg)
 
-Or more complex twin engine controls (6-axis, plus buttons)
+Or more complex twin engine controls (6-axis, plus buttons) (twinengine.touchosc)
 
 ![Image of twinengine.touchosc](https://i.imgur.com/pEahoMB.jpeg)
 
-Or an F/A-18 like controller with finger lifts, TDC, speedbrake and more
+Or an F/A-18 like controller with finger lifts, TDC, speedbrake and more (dcs.touchosc)
 
 ![Image of dcs.touchosc](https://i.imgur.com/Ul048F5.jpeg)
 
